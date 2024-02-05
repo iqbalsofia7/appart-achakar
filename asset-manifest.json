@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/appart-achakar/static/css/main.47da3ecf.css",
+    "main.js": "/appart-achakar/static/js/main.cf41ecbe.js",
+    "static/media/context.jpg": "/appart-achakar/static/media/context.dc302de15beed969f0bf.jpg",
+    "static/media/ext_1.jpg": "/appart-achakar/static/media/ext_1.bbb8a252825278b0c030.jpg",
+    "static/media/pool.jpg": "/appart-achakar/static/media/pool.2e1e0c11e91b04afbaf4.jpg",
+    "static/media/ext_3.jpg": "/appart-achakar/static/media/ext_3.afdaac5789b01c85c1cc.jpg",
+    "static/media/living_room_1.jpg": "/appart-achakar/static/media/living_room_1.8f6d30d72b6788dee1c8.jpg",
+    "static/media/living_room_5.jpg": "/appart-achakar/static/media/living_room_5.0b26060575232d642d32.jpg",
+    "static/media/hall.jpg": "/appart-achakar/static/media/hall.f027c56adc50f149724b.jpg",
+    "static/media/bedroom2.jpg": "/appart-achakar/static/media/bedroom2.911aca6bd7fe585ff01b.jpg",
+    "static/media/ext_5.jpg": "/appart-achakar/static/media/ext_5.634515b1ec38bce0c756.jpg",
+    "static/media/bedroom.jpg": "/appart-achakar/static/media/bedroom.8eb9f3c505f0a8e687c7.jpg",
+    "static/media/context_2.jpg": "/appart-achakar/static/media/context_2.635de63210c915f3ffc5.jpg",
+    "static/media/living_room_2.jpg": "/appart-achakar/static/media/living_room_2.ce908479e54a0b7c9a1b.jpg",
+    "static/media/living_room_3.jpg": "/appart-achakar/static/media/living_room_3.81b8b722101a726bbe2b.jpg",
+    "static/media/ext_4.jpg": "/appart-achakar/static/media/ext_4.1cebe2315f11aa5b0769.jpg",
+    "static/media/bedroom_5.jpg": "/appart-achakar/static/media/bedroom_5.8338cc89c658822099e7.jpg",
+    "static/media/bedroom3.jpg": "/appart-achakar/static/media/bedroom3.1c702429f7b6e3a8d4e0.jpg",
+    "static/media/living_room_4.jpg": "/appart-achakar/static/media/living_room_4.d262d7c0d17c72bc75e4.jpg",
+    "static/media/living_room_6.jpg": "/appart-achakar/static/media/living_room_6.db0b4b0c0d466d22eebc.jpg",
+    "static/media/kitchen.jpg": "/appart-achakar/static/media/kitchen.082d252b246a69f80c79.jpg",
+    "static/media/ext_2.jpg": "/appart-achakar/static/media/ext_2.c17c70cf17c179b3a696.jpg",
+    "index.html": "/appart-achakar/index.html",
+    "main.47da3ecf.css.map": "/appart-achakar/static/css/main.47da3ecf.css.map",
+    "main.cf41ecbe.js.map": "/appart-achakar/static/js/main.cf41ecbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47da3ecf.css",
+    "static/js/main.cf41ecbe.js"
+  ]
+}
