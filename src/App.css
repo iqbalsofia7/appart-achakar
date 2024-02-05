@@ -1,0 +1,167 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+.App {
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #f7f7f7;
+    margin: 0;
+}
+.mrg {
+    margin: 0vw 10vw
+
+}
+.main-slide {
+    position: relative;
+}
+.carousel .slider-wrapper {
+    width: 10%;
+    background: rgb(243, 239, 239);
+}
+.caoursel-slider {
+    height: auto;
+}
+.carousel .thumb {
+    width: 5%;
+    height: auto;
+}
+.carousel {
+    text-align: center;
+}
+.control-dots {
+    width: auto;
+}
+.img {
+    height: auto;
+    margin-bottom: 35px;
+}
+.thumbs {
+    margin-top: 0
+}
+.dot:hover {
+    background-color: black;
+}
+.tableau {
+    border: 1px solid rgb(182, 182, 182);
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px
+}
+.block {
+    background-color: rgb(235, 235, 235);
+    border-radius: 4px;
+    padding: 2px 15px;
+    height: auto;
+    margin: 15px 10px
+}
+.title {
+    margin-bottom: 0;
+}
+.desc {
+    margin-top: 0;
+}
+.block-bis, .block-biss {
+    background-color: rgb(229, 204, 229);
+    padding: 0px 10px;
+    width: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    height: auto;
+    border-radius: 5px;
+    margin: 5px 5px;
+}
+.block-biss {
+    background-color: rgb(212, 229, 204);
+    display: flex;
+    flex-wrap: wrap;
+}
+.badges {
+    display: flex;
+    flex-wrap: wrap;
+}
+.contact, .hdr {
+    text-align: center;
+    background-color: rgb(51, 0, 98);
+    color: white;
+    margin: 0 !important;
+    overflow: hidden;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header > h2 {
+    margin-bottom: 0;
+}
+.header > p {
+    margin-top: 5px;
+}
+.blue {
+    cursor: pointer;
+}
+.blue:hover {
+    color:rgb(82, 24, 137)
+}
+.pics {
+    margin: auto 10px;
+    justify-content: center;
+}
+.gallery {
+    margin: auto;
+    line-height:0;
+    -webkit-column-count:5; /* split it into 5 columns */
+    -webkit-column-gap:5px; /* give it a 5px gap between columns */
+    -moz-column-count:5;
+    -moz-column-gap:5px;
+    column-count:4;
+    column-gap:5px;
+}
+.gallery img {
+    width: 100% !important;
+    height: auto !important;
+    margin-bottom:5px; /* to match column gap */
+}
+@media (max-width: 1200px) {
+    .gallery {
+    -moz-column-count:    4;
+    -webkit-column-count: 4;
+    column-count:         3;
+    }
+}
+@media (max-width: 800px) {
+    .gallery {
+    -moz-column-count:    2;
+    -webkit-column-count: 2;
+    column-count:         2;
+    }
+}
+@media (max-width: 400px) {
+    .gallery {
+    -moz-column-count:    1;
+    -webkit-column-count: 1;
+    column-count:         1;
+    }
+}
+@media (max-width: 430px) {
+    h1 {
+        line-height: 35px;
+        font-size: 25px;
+    }
+    .description > div {
+        text-align: justify;
+    }
+    .main-slide {
+        padding: 0px;
+        position: relative;
+    }
+    .mrg {
+        margin: 15px;
+    }
+}
