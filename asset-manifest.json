@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/appart-achakar/static/css/main.47da3ecf.css",
-    "main.js": "/appart-achakar/static/js/main.cf41ecbe.js",
+    "main.css": "/appart-achakar/static/css/main.78bbe135.css",
+    "main.js": "/appart-achakar/static/js/main.5a4ca3f7.js",
     "static/media/context.jpg": "/appart-achakar/static/media/context.dc302de15beed969f0bf.jpg",
     "static/media/ext_1.jpg": "/appart-achakar/static/media/ext_1.bbb8a252825278b0c030.jpg",
     "static/media/pool.jpg": "/appart-achakar/static/media/pool.2e1e0c11e91b04afbaf4.jpg",
@@ -23,11 +23,11 @@
     "static/media/kitchen.jpg": "/appart-achakar/static/media/kitchen.082d252b246a69f80c79.jpg",
     "static/media/ext_2.jpg": "/appart-achakar/static/media/ext_2.c17c70cf17c179b3a696.jpg",
     "index.html": "/appart-achakar/index.html",
-    "main.47da3ecf.css.map": "/appart-achakar/static/css/main.47da3ecf.css.map",
-    "main.cf41ecbe.js.map": "/appart-achakar/static/js/main.cf41ecbe.js.map"
+    "main.78bbe135.css.map": "/appart-achakar/static/css/main.78bbe135.css.map",
+    "main.5a4ca3f7.js.map": "/appart-achakar/static/js/main.5a4ca3f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.47da3ecf.css",
-    "static/js/main.cf41ecbe.js"
+    "static/css/main.78bbe135.css",
+    "static/js/main.5a4ca3f7.js"
   ]
 }
