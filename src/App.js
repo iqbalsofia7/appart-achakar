@@ -13,11 +13,14 @@ return (
     <div className="App">
         <div className='hdr'>
             <h1>À  Louer : Appartement à Tanger</h1>
+            
         </div>
         <div className='mrg'>
             <div className='header'>
                 <h2>Appartement à louer - Achakar</h2>
-                <p>Pour un couple non-fumeur avec maximum 2 enfants</p>
+                <div className='flex'>
+                    <p>50€/j en basse saison - 90€/j en haute saison</p>
+                </div>
                 <hr />
             </div>
         </div>
@@ -28,6 +31,8 @@ return (
         <div className='description mrg'>
             <h2>Description</h2>
             <div>
+                <p>Pour un couple non-fumeur avec maximum 2 enfants</p>
+
                 <p>Bienvenue dans cet appartement situé à Achakar, à seulement 8 minutes en voiture de l'aéroport et à 5 minutes de marche de la magnifique plage. Niché au sein d'une résidence sécurisée équipée de caméras de surveillance, cet espace offre une oasis de tranquillité et de confort.</p>
                                 
                 { readMore && <><p>Dès votre arrivée, vous serez séduit par les installations de loisirs de la résidence, comprenant 2 piscines et une balançoire pour les plus jeunes voyageurs. L'appartement lui-même est conçu pour offrir un séjour inoubliable, avec une chambre confortable, un canapé-lit spacieux pour deux personnes, ainsi qu'un lit supplémentaire et un lit pliable pour bébé, assurant un hébergement flexible pour tous les membres de votre groupe.</p>
@@ -46,6 +51,14 @@ return (
 
         <div className='tableau mrg'>
             <h2>Spécificités</h2>
+            <div className='block'>
+                <p className='title' ><b>Tarif :</b></p>
+                <p className='desc'>50€/jour en basse saison - 90€/jour en haute saison</p>
+            </div>
+            <div className='block'>
+                <p className='title' ><b>Disponibilité :</b></p>
+                <p className='desc'>A partir du 1er Mars 2024</p>
+            </div>
             <div className='block'>
                 <p className='title' ><b>Nombre de chambre à coucher :</b></p>
                 <p className='desc'>1</p>
